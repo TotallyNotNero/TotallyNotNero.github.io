@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Using checkm8 to run SwitchBoardOS and unsigned IPSWs
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+⚠️ WARNING: This article discusses software that Apple Inc. internally uses. Acquiring a copy of this is strictly forbidden and illegal, and getting one from unauthorized sources are looked down on and may result in you getting SCAMMED. ⚠️ 
